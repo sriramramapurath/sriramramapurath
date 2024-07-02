@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on my further projects
 - 📫 How to reach me through LinkedIn: www.linkedin.com/in/sriramramapurath
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: Codes by Sriram has a special place in coders heart.
+- ⚡ Fun fact: Codes by Sriram has a special place in the Hearts of the coders.
 
 <!---
 sriramramapurath/sriramramapurath is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
